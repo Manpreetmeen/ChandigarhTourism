@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChandigarhTourism/static/css/main.1e298200.css",
+    "main.js": "/ChandigarhTourism/static/js/main.d90beea1.js",
+    "static/js/592.a2d34c19.chunk.js": "/ChandigarhTourism/static/js/592.a2d34c19.chunk.js",
+    "index.html": "/ChandigarhTourism/index.html",
+    "main.1e298200.css.map": "/ChandigarhTourism/static/css/main.1e298200.css.map",
+    "main.d90beea1.js.map": "/ChandigarhTourism/static/js/main.d90beea1.js.map",
+    "592.a2d34c19.chunk.js.map": "/ChandigarhTourism/static/js/592.a2d34c19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e298200.css",
+    "static/js/main.d90beea1.js"
+  ]
+}
